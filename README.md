@@ -1,5 +1,5 @@
 ## 🧭About Me :
-Heyo! I am Sargun Singh, a passionate Backend Developer who loves exploring new technologies;<br><br>Adding Semicolon at the end of everything since 27-06-2023;
+**Heyo! I am *Sargun Singh*, a passionate Backend Developer who loves exploring new technologies;<br><br>Adding Semicolon at the end of everything since 27-06-2023;**
 
 
 ## 🌐 Socials:
