@@ -38,13 +38,14 @@
 </p>
 
 <!-- GitHub Statistics Cards -->
-  
-![Sargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gluonparticle&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@gluonparticle-Github-stats&rank_icon=percentile)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gluonparticle&theme=react&custom_title=Most-Used-Languages)](https://github.com/gluonparticle/github-readme-stats) 
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gluonparticle&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gluonparticle&theme=react&custom_title=Most-Used-Languages)](https://github.com/gluonparticle/github-readme-stats) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gluonparticle&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
 
-[![gluonparticle github activity graph](https://activity-graph.herokuapp.com/graph?username=gluonparticle&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![gluonparticle GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gluonparticle&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gluonparticle&label=Profile%20views&color=0e75b6&style=flat" alt="gluonparticle" /> </p>
+
